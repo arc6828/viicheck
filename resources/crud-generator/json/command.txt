@@ -1,0 +1,2 @@
+php artisan crud:generate Profile --fields_from_file="resources/crud-generator/json/profile.json"
+php artisan crud:generate Vehicle --fields_from_file="resources/crud-generator/json/vehicle.json"

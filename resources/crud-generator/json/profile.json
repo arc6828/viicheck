@@ -1,0 +1,28 @@
+{
+  "fields": [
+      {
+          "name": "name",
+          "type": "string"
+      },
+      {
+          "name": "address",
+          "type": "string"
+      },
+      {
+          "name": "email",
+          "type": "string"
+      },
+      {
+          "name": "tel",
+          "type": "string"
+      },
+      {
+          "name": "citizen_card",
+          "type": "string"
+      },
+      {
+          "name": "news",
+          "type": "string"
+      }
+  ]
+}
